@@ -18,13 +18,13 @@ This project showcases product categories, single product pages, and a shopping 
 
 ## 🖼️ Preview  
 
-![E-commerce Website Screenshot](0004.png)  
+![E-commerce Website Screenshot](preview.png)  
 
 ---
 
 ## 🔗 Live Demo  
 
-👉 [Click here to view the live demo](https://your-demo-link.com)  
+👉 [Click here to view the live demo](https://ifam0605.github.io/test/)  
 
 ---
 
@@ -41,4 +41,4 @@ This project showcases product categories, single product pages, and a shopping 
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
+   https://github.com/Ifam0605/E-Commerce-Website-.git
