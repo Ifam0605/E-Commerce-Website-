@@ -24,7 +24,7 @@ This project showcases product categories, single product pages, and a shopping 
 
 ## 🔗 Live Demo  
 
-👉 [Click here to view the live demo](https://ifam0605.github.io/test/)  
+👉 [Click here to view the live demo](https://ifam0605.github.io/E-Commerce-Website/)  
 
 ---
 
